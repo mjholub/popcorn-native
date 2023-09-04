@@ -23,7 +23,7 @@ async fn update(
                     let new_info: Result<HashMap<String, String>, _> = from_str(&new_data);
                     match new_info {
                         Ok(info_map) => {
-                            // Continue your processing
+                            // Continue processing
                         }
                         Err(err) => {
                             // Handle the error
