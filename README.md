@@ -6,6 +6,7 @@ This project is, as one can see, not under too much of active development. But t
 # Release schedule
 
 **Oct-Nov 2023**: backend MVP
+
 **Nov-Jan 2023/24:** usable GUI
 
 Later stages? Time will show...
